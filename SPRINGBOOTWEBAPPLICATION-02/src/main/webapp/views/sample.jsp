@@ -1,0 +1,3 @@
+<h1 style="color:orange">WELCOME TO SPRING BOOT WEB APPLICATION</h1>
+<h1 style="color:violet">WELCOME TO SPRING BOOT WEB APPLICATION</h1>
+<h1 style="color:grenn">WELCOME TO SPRING BOOT WEB APPLICATION</h1>
