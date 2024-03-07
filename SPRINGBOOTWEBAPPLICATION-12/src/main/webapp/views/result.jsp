@@ -1,0 +1,10 @@
+POS :${position}
+TEAM :${teamName}
+P :${playedMatches}
+W :${winMatches}
+L :${lossMatches}
+NR :${NR}
+NRR :${NRR}
+FOR :${winningMatchesRuns}
+AGAINST :${lossMatchesRuns}
+PTS :${PTS}
